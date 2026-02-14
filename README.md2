@@ -1,0 +1,22 @@
+# Dockerized Web Application Deployment on AWS EC2
+
+## Project Overview
+This project demonstrates containerizing a web application 
+using Docker and deploying it on AWS EC2.
+
+## Technologies Used
+- AWS EC2
+- Docker
+- Linux
+- Docker Hub
+
+## Deployment Steps
+1. Created Docker image
+2. Pushed image to Docker Hub
+3. Launched EC2 instance
+4. Installed Docker on EC2
+5. Pulled image and ran container
+6. Accessed app via Public IP
+
+## Author
+Aditya Upadhyay
